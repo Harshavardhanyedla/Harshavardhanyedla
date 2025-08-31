@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Harsha</h1>
 <h3 align="center">Tech Entrepreneur | Cybersecurity Enthusiast | AI/ML Learner</h3>
 
-<p align="center">
-  <img src="https://your-logo-link-here.png" alt="Logo" width="200"/>
-</p>
-
 ---
 
 ## About Me
