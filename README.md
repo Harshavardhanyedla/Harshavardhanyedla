@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha</h1>
+<h1 align="center">Hi, I'm Harsha</h1>
 <h3 align="center">Tech Entrepreneur | Cybersecurity Enthusiast | AI/ML Learner</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - Founder of **TSNX** – Web & Cybersecurity services  
 - Exploring **AI, Machine Learning, and LegalTech**  
 - Passionate about **cybersecurity, trading, psychology, and building startups**  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 📚 Currently Exploring  
+## Currently Exploring  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -53,10 +53,9 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: [www.linkedin.com/in/harrshaaa](https://www.linkedin.com/in/harrshaaa)  
 - Portfolio: [hvtsnx.niat.tech](https://hvtsnx.niat.tech)  
-- Twitter/X: (add if you have)  
-- Email: (your email here)  
+- Email: codeharshaa@gmail.com  
 
 ---
