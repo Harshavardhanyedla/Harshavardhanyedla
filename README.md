@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Harsha</h1>
 <h3 align="center">Tech Entrepreneur | Cybersecurity Enthusiast | AI/ML Learner</h3>
 
-<p align="center">
-  <img src="https://your-logo-link-here.png" alt="Logo" width="200"/>
-</p>
-
 ---
 
 ## About Me
@@ -39,16 +35,6 @@
   <img src="https://img.shields.io/badge/Communication-4682B4?style=for-the-badge&logo=wechat&logoColor=white" />
   <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge&logo=leaderboard&logoColor=black" />
   <img src="https://img.shields.io/badge/Psychology-6A5ACD?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</p>
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
