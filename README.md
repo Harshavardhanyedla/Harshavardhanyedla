@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-- Founder of **TSNX**, **Neural Next** 
+- Founder of **TSNX** 
 – Web & Cybersecurity services  
 - Exploring **AI, Machine Learning, and LegalTech**  
 - Passionate about **cybersecurity, trading, psychology, and building startups**  
